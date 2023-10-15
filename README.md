@@ -1,5 +1,13 @@
 # pymaceuticals-challenge
 Module 5 Challenge
+Used code from classwork modules: 4-3, 5-1, 5-2, and 5-3.
+
+Did not solve following objective:
+<!-- # A more advanced method to generate a summary statistics table of mean, median, variance, standard deviation,
+# and SEM of the tumor volume for each regimen (only one method is required in the solution)
+
+# Using the aggregation method, produce the same summary statistics in a single line -->
+
 
 # Resources
 Code for item count found on Stack Overflow, provided by user JPP on February 3, 2019 for "How to get the number of the most frequent value in a column?" asked by user Roman on February 28,2013.
